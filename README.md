@@ -96,17 +96,25 @@ The analysis demonstrates practical data analyst skills, including data cleaning
 ## Sample Visualizations
 
 -The project includes
+
 -Line charts for time-series trends
+
 -Bar charts for country and province comparisons
+
 -Monthly trend visualizations for merged datasets
+
 -All visualizations are generated using Matplotlib and placed directly after each analytical solution for clarity.
 
 ## Key Insights
 
 -COVID-19 spread patterns varied significantly across countries and time periods
+
 -Europe experienced sharp daily infection surges during peak waves
+
 -Recovery rates improved over time, indicating better treatment protocols
+
 -Mortality rates varied by region, reflecting healthcare capacity differences
+
 -Data transformation and merging enabled comprehensive pandemic analysis
 
 ## How to Run the Project
