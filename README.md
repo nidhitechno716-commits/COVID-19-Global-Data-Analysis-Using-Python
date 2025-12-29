@@ -120,21 +120,32 @@ The analysis demonstrates practical data analyst skills, including data cleaning
 ## How to Run the Project
 
 -Clone the repository
+
 -Open Anaconda Navigator
+
 -Launch Jupyter Notebook
+
 -Open covid_19_analysis.ipynb
+
 -Run cells sequentially from top to bottom
+
 
 ## Skills Demonstrated
 
 -Data Cleaning & Preprocessing
+
 -Time-Series Analysis
+
 -Exploratory Data Analysis (EDA)
+
 -Data Transformation & Merging
+
 -Data Visualization
+
 -Analytical Thinking & Insight Generation
 
 ## Author: 
+
 Nidhi Desai
 Role: Aspiring Data Analyst
 Tools: Python  
